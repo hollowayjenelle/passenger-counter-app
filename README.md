@@ -1,3 +1,3 @@
 This is a follow along project made by scrimba. This passenger counter project is apart of their free Javascript course. 
 
-(will update this readme file as I go along)
+This application allows the user to count the number of passengers entering a train. The increment button increases the count by 1 when it is clicked each time. The save button allows the user to save the current entry and it has saved and displayed to the user each time. The user can now see how many passengers have went on the bus each time. The save button also resets the counter so that the user can count the passengers on another trip.
